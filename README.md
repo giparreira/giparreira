@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Giovana and I'm a student of Software Engineering</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning Python and JS<br>🎯 Goals: i dont now<br>🎲 Fun fact: I have 4 dogs</p>
 
 ###
 
